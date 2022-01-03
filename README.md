@@ -1,1 +1,1 @@
-# dashboard
+# Dashboard for managing DNS configurations
